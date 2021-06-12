@@ -14,7 +14,7 @@
 ## Using this project template
 
 -
-Clone this repository `git clone https://github.com/aryawpratama/LaravueJetstream-RolePermission.git`. -
+Clone this repository `git clone https://github.com/aryawpratama/laravel-webgis.git`. -
 Rename the `.env.examlpe` to `.env` -
 Configure database in the `.env` file.
 
