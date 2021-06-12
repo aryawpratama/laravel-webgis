@@ -1,0 +1,10 @@
+body {font:10pt arial; }
+.main { text-align:center; font:12pt Arial; width:100%; height:auto; }
+.eventtext {width:100%; margin-top:20px; font:10pt Arial; text-align:left; line-height:25px; background-color:#EDF4F8;
+padding:5px; border:1px dashed #C2DAE7;}
+#mapa {width:100%; height:340px; border:5px solid #DEEBF2;}
+ul {font:10pt arial; margin-left:0px; padding:5px;}
+li {margin-left:0px; padding:5px; list-style-type:decimal;}
+.code {border:1px dashed #cecece; background-color:#F7F7F7; padding:5px;}
+.small {font:9pt arial; color:gray; padding:2px; }
+.jimi { margin:0px;}
